@@ -62,4 +62,4 @@ Happy coding :).
 
 #Questions
 
-Add any questions about the development or installation of the quiz here.
+Add any questions about the development or installation of the quiz to Issues here.
