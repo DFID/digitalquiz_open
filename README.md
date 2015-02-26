@@ -41,3 +41,21 @@ This project runs on standard LAMP (Linux/Apache/MySQL/PHP) stacks and doesn't h
     YOUR_NEW_WORDPRESS_PATH/wp-content/themes/digitalquiz/src/js/app.js
     ```
 5. The custom reports are available in wp-admin under the **Reports** section
+
+
+# Theme customisations
+
+The theme's CSS is built with SASS and using Gulp as a build tool. To make any changes, make sure you set things up first:
+
+1. Install nodeJS 
+2. Go in theme root directory
+3. Install Bower and Gulp (if global is not working try local install)
+```npm install -g bower```
+```npm install -g gulp```
+4. Install dependencies
+```npm install```
+```bower install```
+5. Start gulp runner
+```gulp watch```
+
+Happy coding :).
