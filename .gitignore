@@ -1,0 +1,5 @@
+.DS_Store
+node_modules
+npm-debug.log
+wp-content/themes/digitalquiz/.sass-cache
+public/wp-content/themes/digitalquiz/.sass-cache

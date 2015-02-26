@@ -1,0 +1,31 @@
+{
+  "name": "onScreen",
+  "description": "A jQuery plugin that does stuff when the matched elements are visible (as inside the viewport).",
+  "main": "jquery.onscreen.js",
+  "keywords": [
+    "jquery",
+    "onscreen",
+    "screen"
+  ],
+  "authors": [
+    "Silvestre Herrera"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/silvestreh/onScreen",
+  "ignore": [
+    "**/.*"
+  ],
+  "_release": "33d0f386c2",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "33d0f386c2b00f8fd90c643c73cf0e1d98f654a5"
+  },
+  "_source": "git://github.com/silvestreh/onScreen.git",
+  "_target": "*",
+  "_originalSource": "onScreen",
+  "_direct": true
+}

@@ -1,0 +1,24 @@
+{
+  "name": "DFID",
+  "description": "DFID",
+  "version": "0.0.1",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-concat": "^2.4.1",
+    "gulp-cssmin": "^0.1.6",
+    "gulp-jshint": "^1.8.4",
+    "gulp-notify": "^1.6.0",
+    "gulp-plumber": "^0.6.5",
+    "gulp-rename": "^1.2.0",
+    "gulp-ruby-sass": "^0.7.1",
+    "gulp-strip-debug": "^1.0.1",
+    "gulp-uglify": "^1.0.1",
+    "gulp-livereload": "^2.1.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "gulp-sass": "^0.7.3"
+  }
+}

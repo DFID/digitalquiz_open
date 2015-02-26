@@ -1,0 +1,16 @@
+{
+  "name": "dfid",
+  "version": "0.0.1",
+  "authors": [
+    "Daniel Zaremba <daniel@experiencematter.co.uk>",
+    "Filip Chereches-Tosa <filip@experiencematter.co.uk"
+  ],
+  "description": "dfid",
+  "dependencies": {
+    "foundation": "~5.4.4",
+    "jquery-waypoints": "~2.0.5",
+    "isInViewport": "~2.1.0",
+    "onScreen": "*",
+    "sticky": "*"
+  }
+}
