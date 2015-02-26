@@ -10,11 +10,11 @@ This project runs on standard LAMP (Linux/Apache/MySQL/PHP) stacks and doesn't h
 
 # Setup instructions
 
-## Wordpress and basic site setup
+## WordPress and basic site setup
 
-1. Download and install the latest version of [Wordpress](http://wordpress.org)
-2. Create a new MySQL database and [install Wordpress](http://codex.wordpress.org/Installing_WordPress)
-3. Purchase a license for [WatuPRO](http://calendarscripts.info/watupro/) Wordpress plugin and install/activate the plugin
+1. Download and install the latest version of [WordPress](http://wordpress.org)
+2. Create a new MySQL database and [install WordPress](http://codex.wordpress.org/Installing_WordPress)
+3. Purchase a license for [WatuPRO](http://calendarscripts.info/watupro/) WordPress plugin and install/activate the plugin
 4. Download the files from **this** repository
 5. Install the custom theme, available in this repository under ```wordpress/wp-content/themes/digitalquiz```
 6. Install the custom reports plugin, available under ```wordpress/wp-content/plugins/dfid-reports```
