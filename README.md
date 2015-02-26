@@ -14,7 +14,7 @@ This project runs on standard LAMP (Linux/Apache/MySQL/PHP) stacks and doesn't h
 
 1. Download and install the latest version of [WordPress](http://wordpress.org)
 2. Create a new MySQL database and [install WordPress](http://codex.wordpress.org/Installing_WordPress)
-3. Purchase a license for [WatuPRO](http://calendarscripts.info/watupro/) WordPress plugin and install/activate the plugin
+3. Purchase a license for [WatuPRO](http://calendarscripts.info/watupro/) WordPress plugin and install/activate the plugin (OR try the lite version of [Watu](https://wordpress.org/plugins/watu/) first)
 4. Download the files from **this** repository
 5. Install the custom theme, available in this repository under ```wordpress/wp-content/themes/digitalquiz```
 6. Install the custom reports plugin, available under ```wordpress/wp-content/plugins/dfid-reports```
@@ -59,3 +59,7 @@ The theme's CSS is built with SASS and using Gulp as a build tool. To make any c
 ```gulp watch```
 
 Happy coding :).
+
+#Questions
+
+Add any questions about the development or installation of the quiz here.
